@@ -1,0 +1,505 @@
+/*
+  Localizable.strings
+  bxms
+
+  Created by Coder on 09/10/20.
+  Copyright © 2020 Coder. All rights reserved.
+*/
+
+// settings
+"til" = "Tilni o'zgartirish";
+"tun" = "Tungi rejim";
+"bolishish" = "Bo'lishish";
+"bizbaho" = "Bizni baholang";
+"bizhaqim" = "Biz haqimizda";
+"bizilova" = "Bizning ilovalar";
+
+// another apps
+
+"plan_schotov" = "План счетов";
+"bxms" = "НСБУ";
+"svod_zakonov" = "Свод законов";
+"buxgalterskiy_pravodki" = "Бухгалтерские проводки";
+"ekzaminator_buxgaltera" = "Экзаменатор для Бухгалтера";
+
+
+
+//
+"search" = "Izlash";
+"НСБУ" = "BHMS";
+"bookmarked" = "Xatcho'plar";
+"settings" = "Sozlamalar";
+
+
+//all bxms
+"bxms1" = "BXMS 1";
+"bxms2" = "BXMS 2";
+"bxms3" = "BXMS 3";
+"bxms4" = "BXMS 4";
+"bxms5" = "BXMS 5";
+"bxms6" = "BXMS 6";
+"bxms7" = "BXMS 7";
+"bxms8" = "BXMS 8";
+"bxms9" = "BXMS 9";
+"bxms10" = "BXMS 10";
+"bxms11" = "BXMS 11";
+"bxms12" = "BXMS 12";
+"bxms13" = "BXMS 13";
+"bxms14" = "BXMS 14";
+"bxms15" = "BXMS 15";
+"bxms16" = "BXMS 16";
+"bxms17" = "BXMS 17";
+"bxms18" = "BXMS 18";
+"bxms19" = "BXMS 19";
+"bxms20" = "BXMS 20";
+"bxms21" = "BXMS 21";
+"bxms22" = "BXMS 22";
+"bxms23" = "BXMS 23";
+"bxms24" = "BXMS 24";
+
+
+//bxms1
+//category
+"bxms1.1" = "1.1. Kirish";
+"bxms1.2" = "1.2. Asosiy prinsiplar";
+"bxms1.3" = "1.3. Moliyaviy hisobotlarning asosiy identifikasiyalangan rekvizitlari";
+"bxms1.4" = "1.4. Hisobot davri va hisobot sanasi";
+"bxms1.5" = "1.5. Moliyaviy hisobotni taqdim etish";
+"bxms1.6" = "1.6. Buxgalteriya balansi";
+"bxms1.7" = "1.7. Moliyaviy natijalar to‘g‘risidagi hisobot";
+"bxms1.8" = "1.8. Pul oqimlari haqidagi hisobot";
+"bxms1.9" = "1.9. Xususiy kapital to‘g‘risidagi hisobot";
+"bxms1.10" = "1.10. Moliyaviy hisobotga izohlar";
+
+//categories
+//category 1
+"bxmsCat1.0" = "1.0.Buyruq";
+"bxmsCat1.1" = "1.Umumiy qoidalar";
+"bxmsCat1.2" = "2.Standartning maqsadi";
+"bxmsCat1.3" = "3.Amal qilish sohasi";
+"bxmsCat1.4" = "4.Moliyaviy hisobot tarkibi";
+"bxmsCat1.5" = "5.Qo‘shimcha axborotlar (izohlar, hisob-kitoblar, tushuntirishlar)";
+
+
+
+//category 2
+ "bxmsCat2.1" = "1.Hisoblash prinsipi";
+ "bxmsCat2.2" = "2.Ikkiyoqlama yozuv usuli bilan hisob yuritish";
+ "bxmsCat2.3" = "3.Uzluksizlik";
+ "bxmsCat2.4" = "4.Xo‘jalik operasiyalarini, aktivlarni va passivlarni pulda baholash";
+ "bxmsCat2.5" = "5.Ishonchlilik";
+ "bxmsCat2.6" = "6.Oldindan ko‘ra bilish (ehtiyotkorlik)";
+ "bxmsCat2.7" = "7.Ko‘rsatkichlarning qiyosiyligi";
+ "bxmsCat2.8" = "8.Moliyaviy hisobotning betarafligi";
+ "bxmsCat2.9" = "9.Aktivlar va majburiyatlarni haqiqiy baholash";
+ "bxmsCat2.10" = "10.Hisobot davridagi daromadlar va xarajatlarning muvofiqligi";
+ "bxmsCat2.11" = "11.Tushunarlilik";
+ "bxmsCat2.12" = "12.Ahamiyatlilik";
+ "bxmsCat2.13" = "13.Muhimlilik";
+ "bxmsCat2.14" = "14.Haqqoniy va beg‘araz tasavvur etish";
+ "bxmsCat2.15" = "15.Tugallanganlik";
+ "bxmsCat2.16" = "16.Izchillik";
+ "bxmsCat2.17" = "17.O‘z vaqtidalik";
+ "bxmsCat2.18" = "18.Offsetting (moddalarning o‘zaro hisobga olinishi)";
+ "bxmsCat2.19" = "19.Xolislik";
+ "bxmsCat2.20" = "20.Hisob siyosati";
+ "bxmsCat2.21" = "missing";
+
+
+//category 3
+ "bxmsCat3.1" = "1.3.Moliyaviy hisobotlarning asosiy identifikasiyalangan rekvizitlari";
+
+
+//category 4
+ "bxmsCat4.1" = "1.4.Hisobot davri va hisobot sanasi";
+
+
+ //category 5
+ "bxmsCat5.1" = "1.5.Moliyaviy hisobotni taqdim etish";
+
+
+//category 6
+ "bxmsCat6.1" = "1.Buxgalteriya balansining maqsadi";
+ "bxmsCat6.2" = "2.Aylanma (joriy) va uzoq muddatli aktivlar o‘rtasidagi tafovut";
+ "bxmsCat6.3" = "3.Aylanma (joriy) aktivlar";
+ "bxmsCat6.4" = "4.Uzoq muddatli (joriy bo‘lmagan) aktivlar";
+ "bxmsCat6.5" = "5.Qisqa muddatli (joriy) majburiyatlar";
+ "bxmsCat6.6" = "6.Qisqa muddatli (joriy) majburiyatlarni qayta moliyalashtirish";
+ "bxmsCat6.7" = "7.Buxgalteriya balansida aks ettirilishi lozim bo‘lgan axborotlar";
+ "bxmsCat6.8" = "8.Izohlar, hisob-kitoblar va tushuntirishlarda taqdim etiladigan axborotlar";
+ 
+
+//category 7
+ "bxmsCat7.1" = "1.Moliyaviy natijalar to‘g‘risidagi hisobotning maqsadi";
+ "bxmsCat7.2" = "2.Moliyaviy natijalar to‘g‘risidagi hisobotda taqdim etilishi kerak bo‘lgan axborotlar";
+ "bxmsCat7.3" = "3.Izohlar, hisob-kitoblar va tushuntirishlarda taqdim etiladigan axborotlar";
+
+
+//category 8
+ "bxmsCat8.1" = "1.8.Pul oqimlari haqidagi hisobot";
+
+
+//category 9
+ "bxmsCat9.1" = "1.9.Xususiy kapital to‘g‘risidagi hisobot";
+
+
+//category 10
+ "bxmsCat10.1" = "1.Izohlar, hisob-kitoblar va tushuntirishlarni tuzishdan maqsad";
+ "bxmsCat10.2" = "2.Tushuntirishlar tarkibi";
+ "bxmsCat10.3" = "3.Hisob siyosatini yoritib berish";
+ "bxmsCat10.4" = "4.Boshqa yoritib berishlar";
+
+
+
+
+
+
+
+ //bxms 2
+ "bxms2.0" = "2.0.Buyruq";
+ "bxms2.1" = "2.1.Maqsadi";
+ "bxms2.2" = "2.2.Amal qilish sohasi";
+ "bxms2.3" = "2.3.Atamalar";
+ "bxms2.4" = "2.4.Daromadni o‘lchash";
+ "bxms2.5" = "2.5.Tuzilgan bitimlar faktini aniqlash";
+ "bxms2.6" = "2.6.Tovarlarni sotish";
+ "bxms2.7" = "2.7.Xizmatlar ko‘rsatish (ishlarni bajarish)";
+ "bxms2.8" = "2.8.Foizlar, royaltilar va dividendlar (boshqa daromadlar)";
+ "bxms2.9" = "2.9.Yoritib berish";
+ "bxms2.10" = "2.10.2-sonli BHMSga muvofiq tovarlarni sotish va xizmatlar ko‘rsatish (ishlar bajarish)da daromadlarni tan olish bo‘yicha Misollar";
+ 
+ 
+ 
+ //bxms3
+ "bxms3.0" = "3.0.Buyruq";
+ "bxms3.1" = "3.1.Umumiy qoidalar";
+ "bxms3.2" = "3.2.Standartning maqsadi";
+ "bxms3.3" = "3.3.Amal qilish sohasi";
+ "bxms3.4" = "3.4.Atamalar";
+ "bxms3.5" = "3.5.Yoritib berish";
+ "bxms3.6" = "3.6.Hisobot davrining sof daromadi yoki zarari";
+ "bxms3.7" = "3.7.Favquloddagi moddalar";
+ "bxms3.8" = "3.8.Umumxo‘jalik (odatiy) faoliyatdan daromadlar yoki zararlar";
+ "bxms3.9" = "3.9.Faoliyatning tugatilishi";
+ "bxms3.10" = "3.10.Hisob baholaridagi o‘zgarishlar";
+ "bxms3.11" = "3.11.Asosiy (jiddiy) xatolar";
+ "bxms3.12" = "3.12.Hisob siyosatidagi o‘zgartishlar";
+ 
+
+ //bxms4
+ "bxms4.0" = "4.0.Buyruq";
+ "bxms4.1" = "4.1.1-bob. Umumiy qoidalar";
+ "bxms4.2" = "4.2.2-bob. Tovar-moddiy zaxiralarni tan olish";
+ "bxms4.3" = "4.3.3-bob. Xarid qilingan tovar-moddiy zaxiralarning tannarxi";
+ "bxms4.4" = "4.4.4-bob. Tashkilotda ishlab chiqarilgan tovar-moddiy zaxiralarning tannarxi";
+ "bxms4.5" = "4.5.5-bob. Tovar-moddiy zaxiralarning tannarxini aniqlash usullari";
+ "bxms4.6" = "4.6.6-bob. Realizasiya qilishning sof qiymati";
+ "bxms4.7" = "4.7.7-bob. Tovar-moddiy zaxiralarning chiqib ketishi";
+ "bxms4.8" = "4.8.8-bob. Inventar va xo‘jalik jihozlarini hisobga olish xususiyatlari";
+ "bxms4.9" = "4.9.9-bob. Taralarni hisobga olish xususiyatlari";
+ "bxms4.10" = "4.10.10-bob. O‘stirishdagi va boquvdagi hayvonlarni hisobga olish xususiyatlari";
+ "bxms4.11" = "4.11.11-bob. Tovar-moddiy zaxiralarni inventarizasiya qilish";
+ "bxms4.12" = "4.12.12-bob. Tovar-moddiy zaxiralarni olishga ishonchnoma";
+ "bxms4.13" = "4.13.13-bob. Tovar-moddiy zaxiralarni hisobga olish tizimlari";
+
+
+ //bxms5
+ "bxms5.0" = "5.0.Buyruq";
+ "bxms5.1" = "5.1.1-§. Umumiy qoidalar";
+ "bxms5.2" = "5.2.2-§. Asosiy vositalarning kelib tushishi";
+ "bxms5.3" = "5.3.3-§. Asosiy vositalarni baholash";
+ "bxms5.4" = "5.4.4-§. Asosiy vositalarga o‘tkaziladigan kapital qo‘yilmalar";
+ "bxms5.5" = "5.5.5-§. Asosiy vositalarni qayta baholash";
+ "bxms5.6" = "5.6.6-§. Amortizasiyani hisoblash";
+ "bxms5.7" = "5.7.7-§. Asosiy vositalarni ta’mirlash";
+ "bxms5.8" = "5.8.8-§. Asosiy vositalarning chiqib ketishi";
+ "bxms5.9" = "5.9.9-§. Asosiy vositalarni inventarizasiyadan o‘tkazish";
+ "bxms5.10" = "5.10.10-§. Axborotni yoritib berish";
+
+
+ //bxms6
+ "bxms6.0" = "6.0.Buyruq";
+ "bxms6.1" = "6.1.§ 1. Umumiy qoidalar";
+ "bxms6.2" = "6.2.§ 2. Mazkur BHMSda qo‘llaniladigan asosiy atamalar";
+ "bxms6.3" = "6.3.§ 3. Moliyaviy ijara hisobi";
+ "bxms6.4" = "6.4.§ 4. Operativ ijara hisobi";
+ "bxms6.5" = "6.5.§ 5. Ma’lumotlarni ochib berish";
+
+ 
+ //bxms7
+ "bxms7.0" = "7.0.Buyruq";
+ "bxms7.1" = "7.1.1-§. Umumiy qoidalar";
+ "bxms7.2" = "7.2.2-§. Nomoddiy aktivlarning kelib tushishi";
+ "bxms7.3" = "7.3.3-§. Nomoddiy aktivlarni dastlabki baholash";
+ "bxms7.4" = "7.4.4-§. Nomoddiy aktivlarga o‘tkaziladigan kapital qo‘yilmalar";
+ "bxms7.5" = "7.5.5-§. Nomoddiy aktivlarni qayta baholash";
+ "bxms7.6" = "7.6.6-§. Xarajatni aks ettirish";
+ "bxms7.7" = "7.7.7-§. Amortizasiyani hisoblash";
+ "bxms7.8" = "7.8.8-§. Nomoddiy aktivlardan foydalanish huquqini berish bilan bog‘liq operasiyalar hisobi";
+ "bxms7.9" = "7.9.9-§. Gudvill hisobining xususiyatlari";
+ "bxms7.10" = "7.10.10-§. Nomoddiy aktivlarning chiqib ketishi";
+ "bxms7.11" = "7.11.11-§. Nomoddiy aktivlarni inventarizasiyadan o‘tkazish";
+ "bxms7.12" = "7.12.12-§. Axborotni yoritib berish";
+ 
+ 
+ 
+ 
+ //bxms8
+ "bxms8.0" = "8.0.Buyruq";
+ "bxms8.1" = "8.1.UMUMIY QOIDALAR";
+ "bxms8.2" = "8.2.MAQSAD VA AMAL QILISH SOHASI";
+ "bxms8.3" = "8.3.TUSHUNChALAR";
+ "bxms8.4" = "8.4.KONSOLIDASIYALASHGAN MOLIYAVIY HISOBOTLARNI TAQDIM ETISH";
+ "bxms8.5" = "8.5.KONSOLIDASIYALASH AMAL QILADIGAN SOHA";
+ "bxms8.6" = "8.6.KONSOLIDASIYALASHGAN HISOBOTLARNI TUZISH USULI";
+ "bxms8.7" = "8.7.BOSH JAMIYATNING ALOHIDA MOLIYAVIY HISOBOTIDA SHO";
+ "bxms8.8" = "8.8.YORITIB BERISH";
+ 
+ 
+ 
+ //bxms9
+ "bxms9.0" = "9.0.Buyruq";
+ "bxms9.1" = "9.1.UMUMIY QOIDALAR";
+ "bxms9.2" = "9.2.MAQSADI";
+ "bxms9.3" = "9.3.AMAL QILISH SOHASI";
+ "bxms9.4" = "9.4.PUL OQIMI HARAKATI TO‘GʻRISIDAGI AXBOROTNI BILISH FOYDALILIGI";
+ "bxms9.5" = "9.5.TUSHUNChALAR";
+ "bxms9.6" = "9.6.PUL MABLAGʻI VA PUL EKVIVALENTLARI";
+ "bxms9.7" = "9.7.PUL OQIMLARI TO‘GʻRISIDAGI HISOBOTNI TAQDIM ETISH";
+ "bxms9.8" = "9.8.OPERATSION FAOLIYATI";
+ "bxms9.9" = "9.9.INVESTITSIYA FAOLIYATI";
+ "bxms9.10" = "9.10.MOLIYA FAOLIYATI";
+ "bxms9.11" = "9.11.OPERASION FAOLIYATIDAN TUSHGAN PUL OQIMLARI BO‘YIChA HISOBOT";
+ "bxms9.12" = "9.12.INVESTITSIYA VA MOLIYA FAOLIYATIDAN TUSHGAN PUL OQIMLARI BO‘YIChA HISOBOT";
+ "bxms9.13" = "9.13.XORIJIY VALYUTADAGI PUL OQIMLARI";
+ "bxms9.14" = "9.14.FAVQULODDA MODDALAR";
+ "bxms9.15" = "9.15.FOIZLAR VA DIVIDENDLAR";
+ "bxms9.16" = "9.16.DAROMAD";
+ "bxms9.17" = "9.17.SHO‘’BA KORXONALARNI, BOSHQA XO‘JALIK BIRLIKLARINI SOTIB OLISH VA SOTISH";
+ "bxms9.18" = "9.18.PULGA DAXLI BO‘LMAGAN OPERASION FAOLIYATLAR";
+ "bxms9.19" = "9.19.PUL MABLAGʻLARI VA ULAR EKVIVALENTLARINING AYRIM MODDALARI";
+ "bxms9.20" = "9.20.BOSHQA AXBOROTLARNI OChIB BERISH";
+ 
+ 
+ //bxms10
+ "bxms10.0" = "10.0.Buyruq";
+ "bxms10.1" = "10.1.UMUMIY QOIDALAR";
+ "bxms10.2" = "10.2.MAQSADI";
+ "bxms10.3" = "10.3.AMAL QILISH SOHASI";
+ "bxms10.4" = "10.4.TUSHUNChALAR";
+ "bxms10.5" = "10.5.DAVLAT SUBSIDIYALARI BUXGALTERLIK HISOB-KITOBI USLUBIYATI";
+ "bxms10.6" = "10.6.DAVLATNING NOLIKVID SUBSIDIYALARI";
+ "bxms10.7" = "10.7.AKTIVLARGA KIRITILADIGAN SUBSIDIYALARNI HISOB-KITOB QILISH";
+ "bxms10.8" = "10.8.DAROMADLARGA KIRITILADIGAN SUBSIDIYALAR HISOBI";
+ "bxms10.9" = "10.9.DAVLAT SUBSIDIYALARINI QAYTARISH";
+ "bxms10.10" = "10.10.YORITIB BERISH";
+ "bxms10.11" = "10.11.O‘TISH QOIDALARI";
+ 
+ 
+ //bxms11
+ "bxms11.0" = "11.0.Buyruq";
+ "bxms11.1" = "11.1.UMUMIY QOIDALAR";
+ "bxms11.2" = "11.2.MAQSAD";
+ "bxms11.3" = "11.3.AMAL QILISH DOIRASI";
+ "bxms11.4" = "11.4.TUSHUNChALAR";
+ "bxms11.5" = "11.5.ILMIY-TEKSHIRISH VA TAJRIBA-KONSTRUKTORLIK ISHLAB ChIQISHLAR XARAJATLARI TARKIBI";
+ "bxms11.6" = "11.6.ILMIY-TEKSHIRISH VA TAJRIBA-KONSTRUKTORLIK ISHLAB ChIQISHLAR XARAJATLARINING TAN OLINISHI";
+ "bxms11.7" = "11.7.TAJRIBA-KONSTRUKTORLIK ISHLARI XARAJATLARI AMORTIZASIYASI";
+ "bxms11.8" = "11.8.TAJRIBA-KONSTRUKTORLIK ISHLARI XARAJATLARINING KAMAYTIRILISHI";
+ "bxms11.9" = "11.9.YORITIB BERISH";
+ "bxms11.10" = "11.10.O‘TKAZISH QOIDALARI";
+ 
+ 
+ //bxms12
+ "bxms12.0" = "12.0.Buyruq";
+ "bxms12.1" = "12.1.Umumiy qoidalar";
+ "bxms12.2" = "12.2.Maqsad";
+ "bxms12.3" = "12.3.Amal qilish sohasi";
+ "bxms12.4" = "12.4.Atamalar";
+ "bxms12.5" = "12.5.Moliyaviy investitsiyalarni tasniflash";
+ "bxms12.6" = "12.6.Moliyaviy investitsiyalarni baholash";
+ "bxms12.7" = "12.7.Investitsiyalarning balans qiymati Qisqa muddatli";
+ "bxms12.8" = "12.8.Uzoq muddatli moliyaviy investitsiyalar";
+ "bxms12.9" = "12.9.Moliyaviy investitsiyalar balans qiymatini qayta baholash";
+ "bxms12.10" = "12.10.Moliyaviy investitsiyalarni sotish va o‘tkazish";
+ "bxms12.11" = "12.11.Investitsiyalar bo‘yicha operasiyalardan moliyaviy natijalar";
+ "bxms12.12" = "12.12.Soliqlar";
+ "bxms12.13" = "12.13.Yoritib berish";
+
+ 
+ 
+ 
+ //bxms13
+ 
+ 
+ //bxms14
+ "bxms14.0" = "14.0.Buyruq";
+ "bxms14.1" = "14.1.1-§. Umumiy qoidalar";
+ "bxms14.2" = "14.2.2-§. Axborotni yoritib berishning asosiy qoidalari";
+ "bxms14.3" = "14.3.3-§. Xususiy kapital to‘g‘risidagi hisobot qismiga tushuntirishlar";
+ 
+ 
+ //bxms15
+ "bxms15.0" = "15.0.Buyruq";
+ "bxms15.1" = "15.1.1-§. UMUMIY QOIDALAR";
+ "bxms15.2" = "15.2.2-§. AXBOROTNI OSHKOR QILISHNING ASOSIY QOIDALARI";
+ "bxms15.3" = "15.3.3-§. UZOQ MUDDATLI AKTIVLAR";
+ "bxms15.5" = "15.4.5-§. JORIY AKTIVLAR";
+ "bxms15.6" = "15.5.6-§. O‘Z SARMOYASI (O‘Z SARMOYASI MANBALARI)";
+ "bxms15.7" = "15.6.7-§. MAJBURIYATLAR";
+ "bxms15.9" = "15.7.9-§. BUXGALTERIYa BALANSI QISMIDAGI TUSHUNTIRISHLAR";
+ 
+ 
+ //bxms16
+ "bxms16.0" = "16.0.Buyruq";
+ "bxms16.1" = "16.1.UMUMIY QOIDALAR";
+ "bxms16.2" = "16.2.STANDARTNING MAQSADI";
+ "bxms16.3" = "16.3.HARAKAT DOIRASI";
+ "bxms16.4" = "16.4.TUSHUNCHALAR";
+ "bxms16.5" = "16.5.KUTILMAGAN VAZIYATLAR";
+ "bxms16.6" = "16.6.KUTILMAGAN ZARARLAR HISOBI";
+ "bxms16.7" = "16.7.KUTILMAGAN FOYDALAR HISOBI";
+ "bxms16.8" = "16.8.KUTILMAGAN HOLATLARNI BAHOLASH";
+ "bxms16.9" = "16.9.KUTILMAGAN HOLATLARNI YORITISH";
+ "bxms16.10" = "16.10.BUXGALTERIYA BALANSINI TUZISH SANASIDAN KEYIN XO";
+ "bxms16.11" = "16.11.YORITIB BERISH";
+ 
+ 
+ 
+ //bxms17
+ "bxms17.0" = "17.0.Buyruq";
+ "bxms17.1" = "17.1.UMUMIY QOIDALAR";
+ "bxms17.2" = "17.2.STANDARTNING MAQSADI";
+ "bxms17.3" = "17.3.HARAKAT DOIRASI";
+ "bxms17.4" = "17.4.TUSHUNCHALAR";
+ "bxms17.5" = "17.5.OB’YEKTLAR BO‘YIChA SHARTNOMALAR VA QURILISH PUDRATI SHARTNOMALARI GURUHLARI";
+ "bxms17.6" = "17.6.QURILISH PUDRAT SHARTNOMALARI BO‘YIChA DAROMADLAR";
+ "bxms17.7" = "17.7.QURILISH PUDRAT SHARTNOMALARI BO‘YIChA XARAJATLAR";
+ "bxms17.8" = "17.8.QURILISH PUDRATI SHARTNOMALARI BO‘YIChA DAROMADLAR VA XARAJATLARNING E’TIROF ETILISHI";
+ "bxms17.9" = "17.9.MO‘LJALDAGI ZARARLARNING E’TIROF ETILISHI";
+ "bxms17.10" = "17.10.YORITIB BERISH";
+ "bxms17.11" = "17.11.AMALGA KIRITISH SANASI";
+ 
+ 
+ //bxms18
+ 
+ 
+//bxms19
+"bxms19.1" = "19.1. Buyruq";
+
+"bxms19.1.0" = "19.0.Buyruq";
+"bxms19.1.1" = "19.1.1. Umumiy qoidalar";
+"bxms19.1.2" = "19.2.2. Inventarizasiyani o‘tkazishning asosiy qoidalari";
+"bxms19.1.4" = "19.4.4. Inventarizasiya bo‘yicha solishtirish qaydnomalarini tuzish";
+"bxms19.1.5" = "19.5.5. Inventarizasiyadagi farqlarni tartibga solish va inventarizasiya natijalarini rasmiylashtirish tartibi";
+
+//19.3 cat
+"bxms19.3" = "19.3. Inventarizasiyasi";
+
+"bxms19.3.1" = "1.Asosiy vositalarni inventarizasiyasi";
+"bxms19.3.2" = "2.Nomoddiy aktivlarni inventarizasiyasi";
+"bxms19.3.3" = "3.Moliyaviy qo‘yilmalarni inventarizasiyasi";
+"bxms19.3.4" = "4.Tovar-moddiy qiymatliklarni inventarizasiyasi";
+"bxms19.3.5" = "5.Tugallanmagan ishlab chiqarish va kelgusi davrlar xarajatlarini inventarizasiyasi";
+"bxms19.3.6" = "6.Hayvonlar va yosh hayvonlarni inventarizasiyasi";
+"bxms19.3.7" = "7.Pul mablag‘lari, qiymatliklar va qat’iy hisobdagi blanklarni inventarizasiyasi";
+"bxms19.3.8" = "8.Hisob-kitoblarni inventarizasiyasi";
+
+
+//bxms 19.6 cat
+"bxms19.6" = "19.6. Kuchga kirish sanasi";
+
+"bxms19.6.0" = "19.6.0. Kuchga kirish sanasi";
+"bxms19.6.1" = "19.6.1.ПРИЛОЖЕНИЕ";
+"bxms19.6.2" = "19.6.2.ПРИЛОЖЕНИЕ";
+"bxms19.6.3" = "19.6.3.ПРИЛОЖЕНИЕ";
+"bxms19.6.4" = "19.6.4.ПРИЛОЖЕНИЕ";
+"bxms19.6.5" = "19.6.5.ПРИЛОЖЕНИЕ";
+"bxms19.6.6" = "19.6.6.ПРИЛОЖЕНИЕ";
+"bxms19.6.7" = "19.6.7.ПРИЛОЖЕНИЕ";
+"bxms19.6.8" = "19.6.8.ПРИЛОЖЕНИЕ";
+"bxms19.6.9" = "19.6.9.ПРИЛОЖЕНИЕ";
+"bxms19.6.10" = "19.6.10.ПРИЛОЖЕНИЕ";
+"bxms19.6.11" = "19.6.11.ПРИЛОЖЕНИЕ";
+"bxms19.6.12" = "19.6.12.ПРИЛОЖЕНИЕ";
+"bxms19.6.13" = "19.6.13.ПРИЛОЖЕНИЕ";
+"bxms19.6.14" = "19.6.14.ПРИЛОЖЕНИЕ";
+"bxms19.6.15" = "19.6.15.ПРИЛОЖЕНИЕ";
+"bxms19.6.16" = "19.6.16.ПРИЛОЖЕНИЕ";
+"bxms19.6.17" = "19.6.17.ПРИЛОЖЕНИЕ";
+"bxms19.6.18" = "19.6.18.ПРИЛОЖЕНИЕ";
+
+ 
+
+
+//bxms20
+
+ "bxms20.1" = "20.1. Buyruq";
+
+ "bxms20.1.0" = "20.0.Buyruq";
+ "bxms20.1.1" = "20.1.I bob. Umumiy qoidalar";
+ "bxms20.1.2" = "20.2.II bob. Buxgalteriya hisobini tashkil etish";
+ "bxms20.1.3" = "20.3.III bob. Buxgalteriya hisobining soddalashtirilgan tartibini yuritish";
+ "bxms20.1.4" = "20.4.IV bob. Buxgalteriya hisobining oddiy shakli";
+ "bxms20.1.5" = "20.5.V bob. Buxgalteriya hisobining kombinasiyalashgan shakli";
+ 
+
+ //bxms21
+
+ "bxms21.1.0" = "21.0.Buyruq";
+ "bxms21.1.1" = "21.1.1-UMUMIY QOIDALAR";
+ "bxms21.1.2" = "21.2.2- AMAL QILISH SOHASI";
+ "bxms21.1.3" = "21.3.3-TUSHUNCHALAR";
+ "bxms21.1.4" = "21.4.1-ILOVA";
+ "bxms21.1.5" = "21.4.2-ILOVA";
+
+
+ //bxms22
+ "bxms22.0" = "22.0.Buyruq";
+ "bxms22.1" = "22.1.1-§. Umumiy qoidalar";
+ "bxms22.2" = "22.2.2-§. Chet el valyutasidagi operasiyalarni buxgalteriya hisobida aks ettirish";
+ "bxms22.3" = "22.3.3-§. Chet el valyutasida xarid qilingan tovar-moddiy zaxiralari va boshqa aktivlarni baholash";
+ "bxms22.4" = "22.4.4-§. Kurs farqining hisobi";
+ "bxms22.5" = "22.5.5-§. O‘zbekiston Respublikasidan tashqarida faoliyat yuritish uchun foydalaniladigan aktivlar va majburiyatlar hisobi";
+ "bxms22.6" = "22.6.6-§. Konsolidasiyalashgan moliyaviy hisobotga kiritish uchun shoʻba (tobe) xo‘jalik jamiyatlari, mustaqil balansga ajratilgan tarkibiy bo‘linmalarning moliyaviy hisobotini qayta hisoblash";
+ "bxms22.7" = "22.7.7-§. Axborotlarni yoritib berish";
+ 
+ 
+ 
+ //bxms23
+ "bxms23.0" = "23.0.Buyruq";
+ "bxms23.1" = "23.1.1-§. Umumiy qoidalar";
+ "bxms23.2" = "23.2.2-§. Moliyaviy hisobotda aks ettirish maqsadida qayta tashkil etish amalga oshirilganligining tan olinishi";
+ "bxms23.3" = "23.3.3-§. Aktivlar va majburiyatlarni baholash tartibi";
+ "bxms23.4" = "23.4.4-§. Korxonani qayta tashkil etishni amalga oshirishda moliyaviy hisobot";
+ "bxms23.5" = "23.5.5-§. Qo‘shib yuborish shaklida qayta tashkil etishni amalga oshirishda moliyaviy hisobot ko‘rsatkichlarini shakllantirishning xususiyatlari";
+ "bxms23.6" = "23.6.6-§. Qo‘shib olish shaklida qayta tashkil etishni amalga oshirishda moliyaviy hisobot ko‘rsatkichlarini shakllantirishning xususiyatlari";
+ "bxms23.7" = "23.7.7-§. Bo‘lish shaklida qayta tashkil etishni amalga oshirishda moliyaviy hisobot ko‘rsatkichlarini shakllantirishning xususiyatlari";
+ "bxms23.8" = "23.8.8-§. Ajratib chiqarish shaklida qayta tashkil etishni amalga oshirishda moliyaviy hisobot ko‘rsatkichlarini shakllantirishning xususiyatlari";
+ "bxms23.9" = "23.9.9-§. O‘zgartirish shaklida qayta tashkil etishni amalga oshirishda moliyaviy hisobot ko‘rsatkichlarini shakllantirishning xususiyatlari";
+ "bxms23.10" = "23.10.10-§. Moliyaviy hisobotda axborotning yoritilishi";
+
+
+
+//bxms24
+//cat1
+"bxms24.0" = "24.1. Buyruq";
+
+"bxms24.0.1" = "24.0.Buyruq";
+"bxms24.0.3" = "24.3.Ma’lumotni ochib berish";
+
+
+//cat2
+"bxms24.2" = "24.2. Qarzlar bo'yicha xarajatlar hisobining tartibi";
+
+"bxms24.2.1" = "1.1.Qarzlar bo‘yicha xarajatlarning tan olinish";
+"bxms24.2.2" = "2.2.Kapitalizasiya qilish uchun ruxsat etilgan qarzlar bo‘yicha xarajatlar";
+"bxms24.2.3" = "3.3.Kvalifikasiyalangan aktiv balans qiymatining uning joriy qiymatidan oshib ketishi";
+"bxms24.2.4" = "4.4.Qarzlar bo‘yicha xarajatlarni kapitalizasiya qilishning boshlanishi";
+"bxms24.2.5" = "5.5.Qarzlar bo‘yicha xarajatlarni kapitalizasiya qilishning to‘xtatilishi";
+"bxms24.2.6" = "6.6.Qarzlar bo‘yicha xarajatlarni kapitalizasiya qilishni tugatish";
+
+
+
+
+
